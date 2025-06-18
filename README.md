@@ -10,7 +10,7 @@
   </style>
 </head>
 <body>
-  <h1>Halo, aku [Namamu] 👋</h1>
+  <h1>hii guys, i am [fdlyyrmdnn] 👋</h1>
   <p>Desainer Filter | Kreator Digital</p>
   <a href="https://instagram.com/@fdlyyrmdnn" target="_blank">Instagram</a>
   <a href="https://tiktok.com/@fdlyyrmdnn" target="_blank">TikTok</a>
